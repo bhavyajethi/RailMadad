@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI-powered enhancement of Rail Madad for automated complaint categorization, prioritization, data extraction, and smart routing using visual content, improving resolution speed, accuracy, and user experience.
+This project, developed as part of the Smart India Hackathon (SIH), leverages AI-powered enhancements to improve the functionality of Rail Madad. It facilitates automated complaint categorization, prioritization, data extraction, and smart routing using visual content, improving resolution speed, accuracy, and user experience.
 
 ## Project Structure
 
